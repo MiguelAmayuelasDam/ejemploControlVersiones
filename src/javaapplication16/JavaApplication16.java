@@ -15,9 +15,10 @@ public class JavaApplication16 {
      */
     public static void main(String[] args) {
         System.out.println("hola");
-        System.out.println("pene");
         System.out.println("pene puta culo");
         System.out.println("Holi2");
+        System.out.println("Hola");
+        System.out.println("nuevo de 25/01/23");
     }
     
 }
