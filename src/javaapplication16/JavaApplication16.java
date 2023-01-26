@@ -20,6 +20,7 @@ public class JavaApplication16 {
         System.out.println("Hola");
         System.out.println("nuevo de 25/01/23");
         System.out.println("hola3");
+        System.out.println("26/01/23");
     }
     
 }
